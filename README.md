@@ -3,7 +3,7 @@ Bismillah Arrahman Rahhim.
 
 Shell Script made by :
 	***Meryem MISSAOUI HAJIB***, 116976, meryem.missaoui-hajib@uir.ac.ma
-	***Mehdi ALKADI***, 117724, mehdi.alkadi@uir.ac.ma
+ ***Mehdi ALKADI***, 117724, mehdi.alkadi@uir.ac.ma
 
 Our initial process of thought (some stuff is contradictory with the final code or straight up wrong, so it should be seen just as point of reference):
 
